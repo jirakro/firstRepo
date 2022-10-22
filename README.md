@@ -1,2 +1,2 @@
 # firstRepo
-Testing each bit
+Testing each bit at a time
